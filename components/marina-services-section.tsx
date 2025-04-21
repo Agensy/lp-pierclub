@@ -222,7 +222,7 @@ export function MarinaServicesSection() {
                     </div>
                     <h4 className="text-xl font-semibold text-white text-center mb-4">Jetskis</h4>
                     <div className="flex justify-center items-baseline mt-auto mb-4">
-                      <span className="text-5xl font-extrabold text-[#D5C494]">400</span>
+                      <span className="text-5xl font-extrabold text-[#D5C494]">650</span>
                       <span className="text-xl text-white ml-1">/mês</span>
                     </div>
                     <p className="text-white/70 text-center text-sm">Valor fixo mensal por jetski</p>
