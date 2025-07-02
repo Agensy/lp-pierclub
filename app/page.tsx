@@ -6,6 +6,7 @@ import { ComparisonSection } from "@/components/comparison-section"
 import { CommunitySection } from "@/components/community-section"
 import { GallerySection } from "@/components/gallery-section"
 import { MarinaServicesSection } from "@/components/marina-services-section"
+import { PierStructureGallery } from "@/components/pier-structure-gallery"
 import { PartnersSection } from "@/components/partners-section"
 import { ContactForm } from "@/components/contact-form"
 import { Footer } from "@/components/footer"
@@ -20,6 +21,7 @@ export default function Home() {
         <FeaturesSection />
         <ComparisonSection />
         <MarinaServicesSection />
+        <PierStructureGallery />
         <CommunitySection />
         <GallerySection />
         <PartnersSection />
